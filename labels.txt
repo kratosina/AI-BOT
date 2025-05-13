@@ -1,0 +1,4 @@
+0 Burung pipit
+1 Burung Merpati
+2 Elang
+3 Gagak
